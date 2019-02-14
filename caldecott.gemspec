@@ -20,7 +20,7 @@ spec = Gem::Specification.new do |s|
   s.add_dependency "em-websocket",    "~> 0.3"
   s.add_dependency "async_sinatra",   "~> 0.5"
   s.add_dependency "addressable",     "~> 2.2"
-  s.add_dependency "json",            "~> 1.6"
+  s.add_dependency "json",            "~> 1.7"
   s.add_dependency "uuidtools",       "~> 2.1"
 
   s.add_development_dependency "rake",      "~> 0.9"
